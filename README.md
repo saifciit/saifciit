@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on website development and social media projects.
 - 🤔 I’m looking for help with advanced AI integrations and new tech trends.
 - 💬 Ask me about Web, Flutter, Desktop, or any tech-related stuff.
-- 📫 How to reach me: Check my website or connect via freelancing platforms.
+- 📫 How to reach me: saif.ciit@gmail.com
 - 😄 Pronouns: He/His
 
 ## 🌐 Socials
