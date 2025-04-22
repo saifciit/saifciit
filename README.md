@@ -8,7 +8,7 @@
 - 📫 How to reach me: saif.ciit@gmail.com
 - 😄 Pronouns: He/His
 
-## 🌐 Socials
+## 🌍 Professional Profiles
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ur-rehman-9b380b98/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01cae833688b8b4463)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/saifrehman651)
